@@ -1,7 +1,7 @@
 # Hasty
 
 ## Hasty is an online web application that simplifies the process of moving military members worldwide, using the latest and most sophisticated technology stack. 
-## (*Hasty is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains .NET, and React code.)
+** Hasty is an MVP and due to the proprietary nature of the code I can only provide snippets of my code. This repository contains .NET, and React code. **
 
 With Hasty, military members and their families can easily manage their moves, track their shipments, and stay informed every step of the way. 
 
