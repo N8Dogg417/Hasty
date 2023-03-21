@@ -1,7 +1,8 @@
 # Hasty
 
-# Hasty is an online web application that simplifies the process of moving military members worldwide, using the latest and most sophisticated technology stack.
-With Hasty, military members and their families can easily manage their moves, track their shipments, and stay informed every step of the way. (Hasty is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains .NET, and React code.)
+# Hasty is an online web application that simplifies the process of moving military members worldwide, using the latest and most sophisticated technology stack. (Hasty is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains .NET, and React code.)
+
+With Hasty, military members and their families can easily manage their moves, track their shipments, and stay informed every step of the way. 
 
 My role as a software engineer was to implement the functionality of the Video Chat powered by Daily.co as well as an assiociated analytics dashboard for users and admin. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
