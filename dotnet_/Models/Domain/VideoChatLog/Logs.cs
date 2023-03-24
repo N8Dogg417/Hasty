@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain.VideoChatLog
+namespace hasty.Models.Domain.VideoChatLog
 {
     public class Log
     {

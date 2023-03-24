@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Requests.VideoChat
+namespace hasty.Models.Requests.VideoChat
 {
     public class MeetingParticipantAddRequest
     {

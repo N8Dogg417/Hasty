@@ -5,25 +5,25 @@ using System;
 using Newtonsoft.Json;
 using System.Net.Http.Headers;
 using System.Text;
-using Sabio.Models.Requests.VideoChat;
-using Sabio.Web.Controllers;
+using hasty.Models.Requests.VideoChat;
+using hasty.Web.Controllers;
 using Google.Apis.AnalyticsReporting.v4.Data;
 using Microsoft.Extensions.Logging;
-using Sabio.Web.Models.Responses;
+using hasty.Web.Models.Responses;
 using Stripe;
-using Sabio.Services.Interfaces;
+using hasty.Services.Interfaces;
 using Microsoft.AspNetCore.Authentication;
-using Sabio.Services;
-using Sabio.Models.Domain.VideoChat;
-using Sabio.Models.Requests;
+using hasty.Services;
+using hasty.Models.Domain.VideoChat;
+using hasty.Models.Requests;
 using System.Xml.Linq;
-using Sabio.Data.Providers;
-using Sabio.Models;
+using hasty.Data.Providers;
+using hasty.Models;
 using System.Drawing.Printing;
-using Sabio.Models.Domain.VideoChatLog;
+using hasty.Models.Domain.VideoChatLog;
 using System.Collections.Generic;
 
-namespace Sabio.Web.Api.Controllers
+namespace hasty.Web.Api.Controllers
 {
     [ApiController]
     [Route("apps/videochat/")]

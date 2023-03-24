@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Requests.VideoChatLogs
+namespace hasty.Models.Requests.VideoChatLogs
 {
     public class RoomLogAddRequest
     {

@@ -1,14 +1,14 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
-using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.AppSettings;
-using Sabio.Models.Domain.VideoChat;
-using Sabio.Models.Domain.VideoChatLog;
-using Sabio.Models.Requests.VideoChat;
-using Sabio.Services.Interfaces;
+using hasty.Data;
+using hasty.Data.Providers;
+using hasty.Models;
+using hasty.Models.AppSettings;
+using hasty.Models.Domain.VideoChat;
+using hasty.Models.Domain.VideoChatLog;
+using hasty.Models.Requests.VideoChat;
+using hasty.Services.Interfaces;
 using sib_api_v3_sdk.Model;
 using System;
 using System.Collections.Generic;
@@ -24,7 +24,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Sabio.Services
+namespace hasty.Services
 {
     public class VideoChatService : IVideoChatService
     {

@@ -1,13 +1,13 @@
 ﻿
-using Sabio.Models;
-using Sabio.Models.Domain.VideoChat;
-using Sabio.Models.Domain.VideoChatLog;
-using Sabio.Models.Requests.VideoChat;
+using hasty.Models;
+using hasty.Models.Domain.VideoChat;
+using hasty.Models.Domain.VideoChatLog;
+using hasty.Models.Requests.VideoChat;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace Sabio.Services.Interfaces
+namespace hasty.Services.Interfaces
 {
     public interface IVideoChatService
     {
