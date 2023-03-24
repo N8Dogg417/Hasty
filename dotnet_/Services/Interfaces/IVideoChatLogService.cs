@@ -1,6 +1,6 @@
-﻿using Sabio.Models.Domain.VideoChat;
-using Sabio.Models.Requests.VideoChat;
-using Sabio.Models;
+﻿using hasty.Models.Domain.VideoChat;
+using hasty.Models.Requests.VideoChat;
+using hasty.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -8,12 +8,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-using Sabio.Models.Requests.VideoChatLogs;
-using Sabio.Models.Domain.VideoChatLog;
+using hasty.Models.Requests.VideoChatLogs;
+using hasty.Models.Domain.VideoChatLog;
 using Microsoft.AspNetCore.Mvc;
 using System.Data;
 
-namespace Sabio.Services.Interfaces
+namespace hasty.Services.Interfaces
 {
     public interface IVideoChatLogService
     {

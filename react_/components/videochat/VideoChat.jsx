@@ -11,7 +11,7 @@ import Call from '../videochat/call/Call';
 import Tray from '../videochat/tray/Tray';
 import { FaVideo } from 'react-icons/fa';
 import toastr from 'toastr';
-import debug from 'sabio-debug';
+import debug from 'hasty-debug';
 import swal from 'sweetalert2';
 import './videochat.css';
 
@@ -478,7 +478,7 @@ export default function VideoChat() {
               {!showCall ? (
                 <Container>
                   <Card>
-                    <img src='https://sabio-training.s3-us-west-2.amazonaws.com/0494b1b0-c39e-43dd-807e-e2153890587f/hastybigger(1).png' alt=''/>
+                    <img src='https://hasty-training.s3-us-west-2.amazonaws.com/0494b1b0-c39e-43dd-807e-e2153890587f/hastybigger(1).png' alt=''/>
                   </Card>
                 </Container> ) : (
             <Container className="video-background">

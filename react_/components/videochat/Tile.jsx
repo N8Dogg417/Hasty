@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef } from 'react';
 import PropTypes from 'prop-types';
-import debug from "sabio-debug";
+import debug from "hasty-debug";
 import './tile.css';
 
 function getTrackUnavailableMessage(kind, trackState) {

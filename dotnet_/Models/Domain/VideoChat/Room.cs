@@ -5,7 +5,7 @@ using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain.VideoChat
+namespace hasty.Models.Domain.VideoChat
 {
     public class Room
     {

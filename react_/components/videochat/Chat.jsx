@@ -1,6 +1,5 @@
 import React, { useContext, useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
-import debug from "sabio-debug";
 import CallObjectContext from '../CallObjectContext';
 import '../chat/chat.css';
 
